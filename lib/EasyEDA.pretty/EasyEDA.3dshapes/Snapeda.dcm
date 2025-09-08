@@ -1,0 +1,16 @@
+EESchema-DOCLIB  Version 2.0
+#
+# 74HC00N_652
+#
+$CMP 74HC00N_652
+D
+F
+$ENDCMP
+#
+# STM32L562CET6
+#
+$CMP STM32L562CET6
+D
+F
+$ENDCMP
+#End Doc Library
